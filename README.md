@@ -4,12 +4,15 @@
 
 The **Watchlist App** is a Java-based web application designed to help users manage their movie watchlists. It utilizes a technology stack comprising Java, Spring Boot, Spring MVC, Thymeleaf, and MySQL database. The app consists of four primary layers, and it allows users to add new movies, update and delete existing movies, and integrates with the IMDb API to fetch movie ratings. Additionally, it implements validation to ensure data integrity.
 
-# Watchlist App
+## Screen-Shots
+# Home Page
+![image](https://github.com/knpravirawat111/WatchListApp/assets/120133399/747aa118-8177-4de4-b36e-bd248c57061f)
 
-![Home Page](![image](https://github.com/knpravirawat111/WatchListApp/assets/120133399/747aa118-8177-4de4-b36e-bd248c57061f)
+# Watch-List Page
+![image](https://github.com/knpravirawat111/WatchListApp/assets/120133399/08046f9d-aa68-4c88-befd-add0c56872c3)
 
-![WatchList Page](![image](https://github.com/knpravirawat111/WatchListApp/assets/120133399/08046f9d-aa68-4c88-befd-add0c56872c3)
-![Submit New Movie Pa](![image](![image](https://github.com/knpravirawat111/WatchListApp/assets/120133399/48248a33-0c8e-4889-9c41-7d8b177816a8)
+# Submit New Movie
+![image](https://github.com/knpravirawat111/WatchListApp/assets/120133399/48248a33-0c8e-4889-9c41-7d8b177816a8)
 
 ## Tech Stack
 
